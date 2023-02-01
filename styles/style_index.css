@@ -1,0 +1,13 @@
+#conteneur {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  padding: 15px;
+}
+.card {
+  margin-top: 7px;
+  margin-bottom: 7px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
